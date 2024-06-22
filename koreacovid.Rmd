@@ -27,7 +27,7 @@ state of a patient must be died or alive - we adjust that as well
   
 # Your Question - Is dying independent of sex?
 
-
+As we look at the data, the appropriate variables to use would be either sex that is all lowercase or Sex with the uppercase S and i feel that the appropriate one would be the Sex with the uppercase S because the variables are just F and M. The second variable that would apply to this would be the result because the only ones you can use are alive or dead, two options/ 
 
 
 
