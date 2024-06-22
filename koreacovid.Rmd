@@ -77,3 +77,4 @@ The females were from a population of a total of 1856 shows that 25 dies whereas
 
 ## Conclusions
 
+As we entered the codes we got some unexpected results. This showed us that sex did not play a role in who was dying. There were more female than male in the graphical results but that did not matter. Males died at a rate of 2.3 times faster rate than the female. The total population of men was 1455, yet 44 died whereas the women had a population of 1856 and only 25 died. To conclude, the results were not what we expected. 
